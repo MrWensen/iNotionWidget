@@ -1,2 +1,2 @@
 # iNotionWidget
-A widget that shows the latest schedule and local weather
+基于Scriptable构建的小组件
