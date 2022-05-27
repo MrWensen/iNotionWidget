@@ -6,6 +6,6 @@
 
 ---
 
-## Notion
+## [Notion](/Notion.js)
 
 在接触Notion的过程中，发现Notion的小组件简单方便，于是在[iTermWidget](https://github.com/yaylinda/scriptable/blob/main/TerminalWidget.js)的基础上更改输出内容
